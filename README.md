@@ -1,8 +1,8 @@
 ## Welcome to EE521 (Jan-May 2021)
 
 ### [Final submission for Projects: ]()
-### [Viva Examination: ()
-### [Important Notice: Hands on sessions will be held once students reach back to campus by April 2021]
+### [Viva Examination:]()
+### [Important Notice: Hands on sessions will be held once students reach back to campus by April 2021]()
 
 Hello friends... Its our second time together. I hope you are safe and sound. It was a great experience for me last semester when we conducted the **[EE524 Machine Learning Lab]**(https://snehilsanyal.github.io/EE524/). I got to meet talented students like you and I really liked teaching you a lot. This semester let us keep up the tempo and enthusiasm and learn new things.
 
