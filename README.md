@@ -39,7 +39,7 @@ We have a total of 14 labs in this session. Everything will be online due to the
 
 ### Announcements:
 
-- **12th January 2021 1:30 AM** [Assignment 1 has been released](../Assignments/Assignment1/Assignment1.pdf)
+- **12th January 2021 1:30 AM** [Assignment 1 has been released](Assignments/Assignment1/Assignment1.pdf)
 
 ### Assignments:
 
@@ -48,7 +48,7 @@ We have a total of 14 labs in this session. Everything will be online due to the
 Release Date: 12th January 2021  
 Doubt Session: 11th September 2020  
 Submission Date: 19th January 2021  
-[PDF](../Assignments/Assignment1/Assignment1.pdf) | [Resources]() | [Best Solution]()
+[PDF](Assignments/Assignment1/Assignment1.pdf) | [Resources]() | [Best Solution]()
 
 
 ### Team communication:
