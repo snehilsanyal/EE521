@@ -55,7 +55,7 @@ Submission Date: 19th January 2021
 ### Team communication:
 
 1. [Slack Channel EE521](https://app.slack.com/client/T01JYPT5HU0/C01JMHKHK1P) (For conversation and doubts)
-2. [Moodle Link](https://www.iitg.ac.in/moodle/course/view.php?id=790) (Theory course)
+2. [Moodle Link]() (Theory course) | []() (Lab course)
 3. [Outlook Group](https://outlook.office365.com/mail/group/iitg.ac.in/grp_ee521_dsp_lab_2021/)
 4. [Github Repository](https://github.com/snehilsanyal/EE521/tree/assignments) (For submitting assignments)
 
