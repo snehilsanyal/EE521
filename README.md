@@ -4,7 +4,7 @@
 ### [Viva Examination:]()
 ### [Important Notice: Hands on sessions will be held once students reach back to campus by April 2021]()
 
-Hello friends... Its our second time together. I hope you are safe and sound. It was a great experience for me last semester when we conducted the **[EE524 Machine Learning Lab]**(https://snehilsanyal.github.io/EE524/). I got to meet talented students like you and I really liked teaching you a lot. This semester let us keep up the tempo and enthusiasm and learn new things.
+Hello friends... Its our second time together. I hope you are safe and sound. It was a great experience for me last semester when we conducted the **[EE524 Machine Learning Lab](https://snehilsanyal.github.io/EE524/)**. I got to meet talented students like you and I really liked teaching you a lot. This semester let us keep up the tempo and enthusiasm and learn new things.
 
 I hope you are all excited to learn about Digital Signal Processors. This course is closely based on the theory course **EE520 Signal Processing Algorithms and Architectures**. This lab is offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. We will be using [Python](https://www.python.org/) an open source software to run our codes. We will also use [MATLAB](https://www.mathworks.com/products/matlab.html) for implementing and visualizing different filters.
 
@@ -67,7 +67,7 @@ Submission Date: 19th January 2021
 
 ### Teaching Assistants:
 
-![Snehil Sanyal](https://drive.google.com/file/d/0BxuouCJ6_kPOaWgwZU8wSm5xWTg/view?usp=sharing)
+![Snehil Sanyal](https://raw.githubusercontent.com/snehilsanyal/poem/master/IMG_0283.JPG)
 
 **Snehil Sanyal**:
 Research Scholar,
@@ -75,7 +75,7 @@ EEE Department, IIT Guwahati |
 Email: ssanyal@iitg.ac.in |
 Contact: 9399690211 
 
-![Rajarshi Goswami]()
+![Rajarshi Goswami](https://raw.githubusercontent.com/snehilsanyal/poem/master/WhatsApp%20Image%202021-01-13%20at%203.05.25%20PM.jpeg)
 **Rajarshi Goswami**:
 Dual(MS+PhD) Research Scholar,
 EEE Department, IIT Guwahati |
