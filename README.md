@@ -67,7 +67,7 @@ Submission Date: 19th January 2021
 
 ### Teaching Assistants:
 
-<img src="https://raw.githubusercontent.com/snehilsanyal/poem/master/IMG_0283.JPG" alt="Snehil Sanyal" width="500" height="500">
+<img src="https://raw.githubusercontent.com/snehilsanyal/poem/master/IMG_0283.JPG" alt="Snehil Sanyal" width="500" height="300">
 </img>
 
 **Snehil Sanyal**:
@@ -76,7 +76,7 @@ EEE Department, IIT Guwahati |
 Email: ssanyal@iitg.ac.in |
 Contact: 9399690211 
 
-<img src="https://raw.githubusercontent.com/snehilsanyal/poem/master/WhatsApp%20Image%202021-01-13%20at%203.05.25%20PM.jpeg", alt="Rajarshi Goswami" width="500" height="500">
+<img src="https://raw.githubusercontent.com/snehilsanyal/poem/master/WhatsApp%20Image%202021-01-13%20at%203.05.25%20PM.jpeg" alt="Rajarshi Goswami" width="500" height="300">
 </img>
 **Rajarshi Goswami**:
 Dual(MS+PhD) Research Scholar,
