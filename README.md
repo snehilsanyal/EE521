@@ -39,16 +39,24 @@ We have a total of 14 labs in this session. Everything will be online due to the
 
 ### Announcements:
 
-- **12th January 2021 1:30 AM** [Assignment 1 has been released](Assignments/Assignment1/Assignment1.pdf)
-
+- **12th January 2021 01:30 AM** [Assignment 1 has been released](Assignments/Assignment1/Assignment1.pdf)
+- **19th January 2021 06:30 PM** [Doubt session hae been conducted for Assignment 1]()
+- **20th January 2021 01:36 PM**  [Assignment 2 has been released]()
 ### Assignments:
 
-1. **Assignment 1 (Ungraded):**
+1. **Assignment 1 (Graded):**
 **Fundamentals of Signals and Systems**  
 Release Date: 12th January 2021  
-Doubt Session: 11th September 2020  
+Doubt Session: 19th January 2021
 Submission Date: 19th January 2021  
 [PDF](Assignments/Assignment1/Assignment1.pdf) | [Resources]() | [Best Solution]()
+
+2. **Assignment 2 (Graded):**
+**Probability and random variables**  
+Release Date: 20th January 2021  
+Doubt Session: 
+Submission Date: 27th January 2021  
+[PDF](Assignments/Assignment2/Assignment2.pdf) | [Resources]() | [Best Solution]()
 
 
 ### Team communication:
