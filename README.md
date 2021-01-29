@@ -48,15 +48,24 @@ We have a total of 14 labs in this session. Everything will be online due to the
 **Fundamentals of Signals and Systems**  
 Release Date: 12th January 2021  
 Doubt Session: 19th January 2021
-Submission Date: 19th January 2021  
+Submission Date: 19th January 2021  EOD
 [PDF](Assignments/Assignment1/Assignment1.pdf) | [Resources]() | [Best Solution]()
 
 2. **Assignment 2 (Graded):**
 **Probability and random variables**  
 Release Date: 20th January 2021  
-Doubt Session: 
-Submission Date: 27th January 2021  
+Doubt Session: 26th January 2021
+Submission Date: 27th January 2021 EOD
 [PDF](Assignments/Assignment2/Assignment2.pdf) | [Resources]() | [Best Solution]()
+
+3. **Assignment 3 (Graded):**
+**Z transform and fourier series**  
+Release Date: 27th January 2021  
+Doubt Session: 
+Submission Date: 2nd March 2021  EOD
+[PDF](Assignments/Assignment3/Assignment3.pdf) | [Resources]() | [Best Solution]()
+
+
 
 
 ### Team communication:
