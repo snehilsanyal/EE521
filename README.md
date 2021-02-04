@@ -93,10 +93,21 @@ Submission Date: 10th February 2021  EOD
 
 ### Resources:
 
-1. Signals and systems by Alan Oppenheim: [Course](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)| [Book](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
-2. Signals and systems BP Lathi: [Book](http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf)
-3. Digital signal processing course: [Course](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
-4. NPTEL Course on Digital Signal Processing by Prof. SC Dutta: [Course](https://www.youtube.com/watch?v=6dFnpz_AEyA&list=PL9567DFCA3A66F299)
+1. Signals and systems by Alan Oppenheim:
+
+[Course](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)| [Book](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
+
+2. Signals and systems BP Lathi:
+
+[Book](http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf)
+
+3. Digital signal processing course:
+
+[Course](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
+
+4. NPTEL Course on Digital Signal Processing by Prof. SC Dutta:
+
+[Course](https://www.youtube.com/watch?v=6dFnpz_AEyA&list=PL9567DFCA3A66F299)
 
 ### Teaching Assistants:
 
