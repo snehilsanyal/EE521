@@ -88,7 +88,7 @@ Submission Date: 10th February 2021  EOD
 
 1. [Slack Channel EE521](https://app.slack.com/client/T01JYPT5HU0/C01JMHKHK1P) (For conversation and doubts)
 2. [Moodle Link]() 
-(Theory course) | []() (Lab course)
+[]() (Theory course) | []() (Lab course)
 3. [Outlook Group](https://outlook.office365.com/mail/group/iitg.ac.in/grp_ee521_dsp_lab_2021/)
 4. [Github Repository](https://github.com/snehilsanyal/EE521/tree/assignments) (For submitting assignments)
 
@@ -104,7 +104,6 @@ Submission Date: 10th February 2021  EOD
 [Course](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
 
 4. NPTEL Course on Digital Signal Processing by Prof. SC Dutta:
-
 [Course](https://www.youtube.com/watch?v=6dFnpz_AEyA&list=PL9567DFCA3A66F299)
 
 ### Teaching Assistants:
