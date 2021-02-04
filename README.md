@@ -87,22 +87,20 @@ Submission Date: 10th February 2021  EOD
 ### Team communication:
 
 1. [Slack Channel EE521](https://app.slack.com/client/T01JYPT5HU0/C01JMHKHK1P) (For conversation and doubts)
-2. [Moodle Link]() (Theory course) | []() (Lab course)
+2. [Moodle Link]() 
+(Theory course) | []() (Lab course)
 3. [Outlook Group](https://outlook.office365.com/mail/group/iitg.ac.in/grp_ee521_dsp_lab_2021/)
 4. [Github Repository](https://github.com/snehilsanyal/EE521/tree/assignments) (For submitting assignments)
 
 ### Resources:
 
 1. Signals and systems by Alan Oppenheim:
-
-[Course](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/)| [Book](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
+[Course](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/) | [Book](https://eee.guc.edu.eg/Courses/Communications/COMM401%20Signal%20&%20System%20Theory/Alan%20V.%20Oppenheim,%20Alan%20S.%20Willsky,%20with%20S.%20Hamid-Signals%20and%20Systems-Prentice%20Hall%20(1996).pdf)
 
 2. Signals and systems BP Lathi:
-
 [Book](http://galia.fc.uaslp.mx/~mlr/Lathi1.pdf)
 
 3. Digital signal processing course:
-
 [Course](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/study-materials/)
 
 4. NPTEL Course on Digital Signal Processing by Prof. SC Dutta:
