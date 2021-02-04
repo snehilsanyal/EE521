@@ -1,12 +1,15 @@
 ## Welcome to EE521 (Jan-May 2021)
 
 ### [Final submission for Projects: ]()
+Project Link: [Project Ideas submission](https://docs.google.com/spreadsheets/d/1wK2ynd37MGDa6IXs-7v_CdOfowrX1CTY9RXMSIWwNNs/edit?usp=drivesdk)
+
+The project link will be open till one day before the last day of instruction. 
 ### [Viva Examination:]()
 ### [Important Notice: Hands on sessions will be held once students reach back to campus by April 2021]()
 
 Hello friends... Its our second time together. I hope you are safe and sound. It was a great experience for me last semester when we conducted the **[EE524 Machine Learning Lab](https://snehilsanyal.github.io/EE524/)**. I got to meet talented students like you and I really liked teaching you a lot. This semester let us keep up the tempo and enthusiasm and learn new things.
 
-I hope you are all excited to learn about Digital Signal Processors. This course is closely based on the theory course **EE520 Signal Processing Algorithms and Architectures**. This lab is offerred by Professor [Manas Kamal Bhuyan](https://www.iitg.ac.in/mkb/) sir. We will be using [Python](https://www.python.org/) an open source software to run our codes. We will also use [MATLAB](https://www.mathworks.com/products/matlab.html) for implementing and visualizing different filters.
+I hope you are all excited to learn about Digital Signal Processors. This course is closely based on the theory course **EE520 Signal Processing Algorithms and Architectures**. This lab is offerred by [Prof. M. K. Bhuyan](https://www.iitg.ac.in/mkb/) sir. We will be using [Python](https://www.python.org/) an open source software to run our codes. We will also use [MATLAB](https://www.mathworks.com/products/matlab.html) for implementing and visualizing different filters.
 
 ### Objectives of this lab:
 
@@ -40,8 +43,15 @@ We have a total of 14 labs in this session. Everything will be online due to the
 ### Announcements:
 
 - **12th January 2021 01:30 AM** [Assignment 1 has been released](Assignments/Assignment1/Assignment1.pdf)
-- **19th January 2021 06:30 PM** [Doubt session hae been conducted for Assignment 1]()
-- **20th January 2021 01:36 PM**  [Assignment 2 has been released]()
+- **19th January 2021 06:30 PM** [Doubt session has been conducted for Assignment 1]()
+- **20th January 2021 01:36 PM**  [Assignment 2 has been released](Assignments/Assignment2/Assignment2.pdf)
+- **26th January 2021 06:00 PM** [Doubt session has been conducted for Assignment 2]()
+- **27th January 2021 01:23 PM** [Assignment 3 has been released](Assignments/Assignment3/Assignment3.pdf)
+- **31st January 2021 06:00 PM** [Doubt session has been conducted for Assignment 3]()
+- **1st February 2021** [Project ideas link has been released and will be open till one day before last day of instruction](https://docs.google.com/spreadsheets/d/1wK2ynd37MGDa6IXs-7v_CdOfowrX1CTY9RXMSIWwNNs/edit?usp=drivesdk)
+- **4th February 2021** [Assignment 4 has been released](Assignments/Assignment4/Assignment4.pdf)
+
+
 ### Assignments:
 
 1. **Assignment 1 (Graded):**
@@ -61,10 +71,16 @@ Submission Date: 27th January 2021 EOD
 3. **Assignment 3 (Graded):**
 **Z transform and fourier series**  
 Release Date: 27th January 2021  
-Doubt Session: 
-Submission Date: 2nd March 2021  EOD
+Doubt Session: 31st January 2021
+Submission Date: 2nd February 2021  EOD
 [PDF](Assignments/Assignment3/Assignment3.pdf) | [Resources]() | [Best Solution]()
 
+4. **Assignment 4 (Graded):**
+**DCT and DFT Part-1**  
+Release Date: 4th February 2021  
+Doubt Session:
+Submission Date: 10th February 2021  EOD
+[PDF](Assignments/Assignment4/Assignment4.pdf) | [Resources]() | [Best Solution]()
 
 
 
