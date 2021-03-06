@@ -3,6 +3,10 @@
 ### [Final submission for Projects: ]()
 Project Link: [Project Ideas submission](https://docs.google.com/spreadsheets/d/1wK2ynd37MGDa6IXs-7v_CdOfowrX1CTY9RXMSIWwNNs/edit?usp=drivesdk)
 
+Check the repo folder Report Template in the main branch for instructions on using the template. 
+
+Submit the project before EOD in the format Rollnumber_Name. Inside this folder only 2 files will be there: 1. Notebook. 2. Report (Latex)
+
 The project link will be open till one day before the last day of instruction. 
 ### [Viva Examination:]()
 ### [Important Notice: Hands on sessions will be held once students reach back to campus by April 2021]()
@@ -41,7 +45,7 @@ We have a total of 14 labs in this session. Everything will be online due to the
 - **Assignment Submission:** Every Tuesday (EOD) in the assignments branch of this [github repository](https://github.com/snehilsanyal/EE521/tree/assignments).
 
 ### Announcements:
-
+- **6th March 2021 13:00 PM** [Project report template has been uploaded]()
 - **12th January 2021 01:30 AM** [Assignment 1 has been released](Assignments/Assignment1/Assignment1.pdf)
 - **19th January 2021 06:30 PM** [Doubt session has been conducted for Assignment 1]()
 - **20th January 2021 01:36 PM**  [Assignment 2 has been released](Assignments/Assignment2/Assignment2.pdf)
