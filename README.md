@@ -126,4 +126,3 @@ Contact: 9399690211
 Dual(MS+PhD) Research Scholar,
 EEE Department, IIT Guwahati |
 Email: rgoswami@iitg.ac.in |
-Contact: 8753011618 
